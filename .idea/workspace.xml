@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22ea1b8f-929f-4c5a-bb83-a3610bad90b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/window/AppMainPanel.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/window/AppMainPanel.form" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +43,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../boids-simulation" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/META-INF" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propGUI" />
@@ -58,6 +59,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -81,7 +93,15 @@
       <workItem from="1612725534518" duration="4275000" />
       <workItem from="1612733868293" duration="8956000" />
       <workItem from="1612782429431" duration="2320000" />
-      <workItem from="1612786394194" duration="2917000" />
+      <workItem from="1612786394194" duration="3216000" />
+      <workItem from="1612795727552" duration="145000" />
+      <workItem from="1612991946253" duration="620000" />
+      <workItem from="1613224840281" duration="46000" />
+      <workItem from="1613240713091" duration="223000" />
+      <workItem from="1613259532667" duration="7000" />
+      <workItem from="1613259623327" duration="714000" />
+      <workItem from="1613603219160" duration="219000" />
+      <workItem from="1613988669758" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="intellij project">
       <created>1612705817327</created>
@@ -90,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612705817327</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="app working">
+      <created>1612790263736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612790263736</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +137,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="intellij project" />
-    <option name="LAST_COMMIT_MESSAGE" value="intellij project" />
+    <MESSAGE value="app working" />
+    <option name="LAST_COMMIT_MESSAGE" value="app working" />
   </component>
 </project>

@@ -51,8 +51,8 @@ public class App {
     //region Colors
 
     public static final Color colorBackground = new Color(50, 50, 50);
-    public static final Color colorObstacles = new Color(100, 100, 100);
-    public static final Color colorLight = new Color(200, 200, 200);
+    public static final Color colorObstacles = new Color(156, 156, 156);
+    public static final Color colorLight = new Color(255, 244, 213);
 
     //endregion
 
